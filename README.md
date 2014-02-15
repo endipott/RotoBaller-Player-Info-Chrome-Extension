@@ -1,4 +1,4 @@
-The RotoBaller Player Info Chrome Extension is a (very minor) modification of the completely awesome FantasyGraph extension by Seth Glantz.  All FanGraphs and Baseball Reference users should check FantasyGraph out immediately, if not sooner.  
+The RotoBaller Player Info Chrome Extension is a (very minor) modification of the completely awesome FantasyGraph extension by Seth Glantz.  All FanGraphs and Baseball Reference users should check out FantasyGraph immediately, if not sooner.  
 
 What follows is the README.md from Seth's extension's Github repo.
 
