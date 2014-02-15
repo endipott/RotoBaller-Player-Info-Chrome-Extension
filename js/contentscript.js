@@ -80,12 +80,7 @@ function addCBSEvents() {
 
 function getLinks(playerName) {
     var returnString = '';
-    if (options.fangraphs) {
-        returnString += getLinkHTML(playerName, 'http://www.fangraphs.com/players.aspx?lastname=', 'http://www.fangraphs.com/favicon.ico');
-    }
-    if (options.baseballreference) {
-        returnString += getLinkHTML(playerName, 'http://www.baseball-reference.com/pl/player_search.cgi?search=', 'http://www.baseball-reference.com/favicon.ico');
-    }
+    returnString += getLinkHTML(playerName, 'http://www.rotoballer.com/fantasy-baseball-mlb-player-news/', 'http://www.rotoballer.com/wp-content/uploads/2014/01/rotoballer-baseball-logo-black-transparent-vector.png');
     return returnString;
 }
 
