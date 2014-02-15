@@ -1,9 +1,3 @@
-/*!
- *    "I am rarely happier than when spending an entire day programming my computer to
- *    perform automatically a task that it would otherwise take me a good ten seconds 
- *    to do by hand." ~ Douglas Adams, just zis guy, you know
- */
-
 var options;
 var observerConfig = {
     childList: true,
