@@ -1,4 +1,5 @@
 The RotoBaller Player Info Chrome Extension is a (very minor) modification of the completely awesome FantasyGraph extension by Seth Glantz.  All FanGraphs and Baseball Reference users should check FantasyGraph out immediately, if not sooner.  
+
 What follows is the README.md from Seth's extension's Github repo.
 
 ------
@@ -29,3 +30,4 @@ I'm sold, now how do I get it?
 ------
 
 FantasyGraph is available for download in the [Chrome Web Store](https://chrome.google.com/webstore/detail/fantasygraph/pghfoglbgdeknkjcmilhkidfdkgenfdi?hl=en-US).  If you know javascript and want to tinker with the extension's code, you can fork the project on [Github](https://github.com/sglantz/FantasyGraph-Chrome-Extension).
+
