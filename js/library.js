@@ -1,6 +1,6 @@
-﻿var options = {
+var options = {
     enabled: true,
-    fangraphs: true,
+    rotoballer: true,
     baseballreference: true,
     cbs: true,
     espn: true,
