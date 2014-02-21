@@ -79,7 +79,7 @@ function getLinks(playerName) {
 }
 
 function getLinkHTML(playerName, playerProfileLink, favIconLink) {
-    return '<a class="RotoBallerLink" href="' + playerProfileLink + playerName +
+    return '<a class="RotoBallerLink" href="' + playerProfileLink + encodeURIComponent(playerName) +
         '" target="_blank"><img src="' + favIconLink + '" height="12" width="12" border="0"' +
         ' style="margin:0 6px 0 6px" title="' + playerName + '" /></a>';
 }
