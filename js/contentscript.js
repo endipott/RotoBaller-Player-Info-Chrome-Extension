@@ -81,6 +81,6 @@ function getLinks(playerName) {
 function getLinkHTML(playerName, playerProfileLink, favIconLink) {
     var urlName = playerName.split(' ').join('+');
     return '<a class="RotoBallerLink" href="' + playerProfileLink + urlName +
-        '" target="_blank"><img src="' + favIconLink + '" height="12" width="12" border="0"' +
-        ' style="margin:0 6px 0 6px" title="' + playerName + '" /></a>';
+        '" target="_blank"><img src="' + favIconLink + '" height="14" width="14" border="0"' +
+        ' style="margin:-2px 6px 0 -2px" title="' + playerName + '" /></a>';
 }
