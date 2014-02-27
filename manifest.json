@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "RotoBaller Player Info",
-  "version": "0.15",
+  "version": "0.16",
   "description": "Integrates RotoBaller.com player info links with ESPN and CBSSports fantasy baseball sites (thanks to Seth Glantz's FantasyGraphs).",
   "permissions": [ "storage", "tabs", "http://games.espn.go.com/flb/*", "http://*.baseball.cbssports.com/*"],
   "icons": {
