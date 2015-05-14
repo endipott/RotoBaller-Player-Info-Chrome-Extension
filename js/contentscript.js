@@ -53,7 +53,7 @@ function addCBSLinks() {
         if ($(this).parent().is('td')) {
             var splitIndex = $(this).text().indexOf(', ');
             var originalName = $(this).text();
-            $(this).parent().append(getLinks(originalName.substring(splitIndex + 2, originalName.length) + ' ' +
+            $(this).parent().append(getLinks(originalName.substring(splitIndex + 1, originalName.length) + ' ' +
                 originalName.substring(0, splitIndex)));
         }
     });
